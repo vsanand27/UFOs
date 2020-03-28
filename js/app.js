@@ -15,7 +15,9 @@ function buildTable(data) {
         // Loop through each field in the dataRow and add
         // each value as a table cell (td)
       Object.values(dataRow).forEach((val) => {
+        // append data in table data
         let cell = row.append("td");
+        //holds only each value from the object
         cell.text(val);
         }
       );
@@ -33,6 +35,10 @@ function buildTable(data) {
             // data using that date.
             // if-statement syntax
             // if ( condition ) { code to execute }
+            // key="datetime"
+            // row[Key]
+
+
       if (date) {
             // Apply `filter` to the table data to only keep the
             // rows where the `datetime` value matches the filter value
