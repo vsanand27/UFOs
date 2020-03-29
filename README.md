@@ -6,10 +6,11 @@ UFO Website utilizing Javascript for tables/filtering and HTML for weblayout and
 Develop a working website to view UFO sightings around United States of America and review latest article on UFO sightings.  The dataset used in Key and Pair values similar to data dictionaries in Python. 
 
 The key of this website is to display dataset in a dynamic table and be able to filter based on multiple parameters.  This is an exercise for data scientist and analyst to present management a tool to review data and share analysis.
-Source HTML: 
+
+Source HTML: https://github.com/vsanand27/UFOs/blob/master/index.html
 To display – open in visual studio and right click to open in Terminal or Live Server
 
-JavaScript with table/filter functions:
+JavaScript with table/filter functions: 
 
 CSS for bootstrap format: 
 
