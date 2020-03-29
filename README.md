@@ -11,7 +11,7 @@ Source HTML: https://github.com/vsanand27/UFOs/blob/master/index.html
 
 To display – open in visual studio and right click to open in Terminal or Live Server
 
-JavaScript with table/filter functions: 
+JavaScript with table/filter functions: https://github.com/vsanand27/UFOs/blob/master/static/js/app.js
 
 CSS for bootstrap format: https://github.com/vsanand27/UFOs/blob/master/static/css/style.css
 
