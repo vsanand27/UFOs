@@ -17,6 +17,7 @@ Steps Taken: Automatic Table and Date Search
 
 # Design Phase 
 Majority OPEX Expenses – ASC 350 Internal Use Software - Until Proof of Concept
+
 •	Developed a design layout of the website
 
 •	Map design layout into rows and columns format and bootstrap functions to be used
