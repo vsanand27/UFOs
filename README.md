@@ -1,5 +1,5 @@
 # UFOs
-Create Javascript Project to show UFO Findings dataset with the support of Article
+UFO Website utilizing Javascript for tables/filtering and HTML for weblayout and article
 ![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
 
 # Purpose: 
@@ -63,3 +63,6 @@ CAPEX/OPEX Expense
 2)	Show Input filter values by user As a string above the table 
 
 3)	Hold articles in MongoDb and show articles by State
+
+# Website (Screenshot)
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
