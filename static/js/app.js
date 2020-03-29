@@ -37,8 +37,8 @@ function updateFilters() {
   ;
   
   
-  // to the filters list. Otherwise, clear that filter from the filters object
-  // clear the input valued
+  // clear that filter from the html filters object
+  
   d3.select("#datetime").property("value","");
   d3.select("#city").property("value","");
   d3.select("#state").property("value","");
@@ -69,7 +69,7 @@ function filterTable(filters) {
 // Attach an event to listen for changes to each filter
 // Hint: You'll need to select the event and what it is listening for within each set of parenthesis
 
-d3.select("#filter-btn").on("click", updateFilters);
+d3.selectAll("#filter-btn").on("click", updateFilters);
 
 // Build the table when the page loads
 buildTable(tableData);
