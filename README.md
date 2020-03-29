@@ -65,4 +65,4 @@ CAPEX/OPEX Expense
 3)	Hold articles in MongoDb and show articles by State
 
 # Website (Screenshot)
-![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Website_image.PNG)
