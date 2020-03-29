@@ -8,11 +8,12 @@ Develop a working website to view UFO sightings around United States of America 
 The key of this website is to display dataset in a dynamic table and be able to filter based on multiple parameters.  This is an exercise for data scientist and analyst to present management a tool to review data and share analysis.
 
 Source HTML: https://github.com/vsanand27/UFOs/blob/master/index.html
+
 To display – open in visual studio and right click to open in Terminal or Live Server
 
 JavaScript with table/filter functions: 
 
-CSS for bootstrap format: 
+CSS for bootstrap format: https://github.com/vsanand27/UFOs/blob/master/static/css/style.css
 
 Steps Taken: Automatic Table and Date Search
 
