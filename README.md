@@ -15,9 +15,8 @@ JavaScript with table/filter functions: https://github.com/vsanand27/UFOs/blob/m
 
 CSS for bootstrap format: https://github.com/vsanand27/UFOs/blob/master/static/css/style.css
 
-Steps Taken: Automatic Table and Date Search
-
 # Design Phase 
+
 Majority OPEX Expenses – ASC 350 Internal Use Software - Until Proof of Concept
 
 •	Developed a design layout of the website
