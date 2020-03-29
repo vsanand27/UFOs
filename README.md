@@ -1,5 +1,6 @@
 # UFOs
 Create Javascript Project to show UFO Findings dataset with the support of Article
+![alt text](https://github.com/vsanand27/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map.PNG)
 
 # Purpose: 
 Develop a working website to view UFO sightings around United States of America and review latest article on UFO sightings.  The dataset used in Key and Pair values similar to data dictionaries in Python. 
